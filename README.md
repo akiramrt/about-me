@@ -2,7 +2,7 @@
 
 💻 Software Engineer at Itaú Unibanco  
 🚀 Backend development with **Java** and **TypeScript**  
-☁️ **AWS** Certified
+☁️ **AWS** Certified  
 📚 Software Engineering student at **FIAP**  
 
 ---
